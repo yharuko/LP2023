@@ -1,5 +1,5 @@
 body {
-    color: #333;
+    color: #212121;
 }
 
 .navbar-expand-md {
@@ -12,14 +12,14 @@ body {
   margin-right: 30px;
 }
 
-.shopname {
-  color: #333;
-}
-
 .introduction {
   /* color: #834205dc; */
   font-weight: normal;
   font-size: 20px; 
+  text-align: center;
+}
+
+.kodawari {
   text-align: center;
 }
 
@@ -114,10 +114,6 @@ h5 {
 
 .about_health {
   background-color: #efebe9;
-}
-
-.shoplink {
-  color: #333; 
 }
 
 .social {
