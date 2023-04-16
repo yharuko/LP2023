@@ -2,10 +2,18 @@ body {
     color: #333;
 }
 
+.navbar-expand-md {
+  justify-content: center;
+}
+
 .nav-link {
   font-size: 16px;
   margin-left: 30px;
   margin-right: 30px;
+}
+
+.shopname {
+  color: #333;
 }
 
 .introduction {
